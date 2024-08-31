@@ -1,0 +1,5 @@
+Name, Age, Salary
+Azman khan, 24, 50000
+Arshiya khan, 27, 60000
+Anas khan, 25, 70000
+Zoha Javed, 25, 80000
